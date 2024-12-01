@@ -14,12 +14,12 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "6435225",
+      "value": "23255238",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "4e984ea35f854762dcde906dce426c2d",
+      "value": "009e3d8c1bdc89d5387cdd8fd182ec15",
       "required": true
     },
     "BOT_TOKEN": {
@@ -29,22 +29,22 @@
     },
     "MONGO_DB_URI": {
       "description": "Get a mongodb url from https://cloud.mongodb.com.",
-      "value": "",
+      "value": "mongodb+srv://teamdaxx123:teamdaxx123@cluster0.ysbpgcp.mongodb.net/?retryWrites=true&w=majority",
       "required": true
     },
     "OWNER_ID": {
       "description": "The user id of user whom you would like to add as OWNER.from @Sophia_x_MusicBot on Telegram.",
-      "value": "7137269276",
+      "value": "7526369190",
       "required": true
     },
    "SUPPORT_CHANNEL": {
       "description": "Add channel link",
-      "value": "https://t.me/SuperBanSBots",
+      "value": "https://t.me/BLOOD_MANSION",
       "required": true
     },
       "SUPPORT_CHAT": {
       "description": "Add Chat group & support group Link",
-      "value": "https://t.me/+jCS-YsVBVEE3NjQ1",
+      "value": "https://t.me/waifexanime",
       "required": true
     },
     "STRING_SESSION": {
@@ -54,7 +54,7 @@
     },
     "HEROKU_API_KEY": {
       "description": "Your Heroku account's API key",
-      "value": "",
+      "value": "HRKU-244ce902-f5e3-4c52-94d6-b5c4bb4ab7e5",
       "required": false
     },
     "HEROKU_APP_NAME": {
@@ -64,7 +64,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "If you dont know this, Leave as it is",
-      "value": "https://github.com/AbhiModszYT/AnieXEricaMusic",
+      "value": "https://github.com/SONGSONG220/AnieXEricaMusic",
       "required": false
     },
     "UPSTREAM_BRANCH": {
@@ -94,7 +94,7 @@
     },
     "LOGGER_ID": {
       "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-      "value": "-1001971806089",
+      "value": "-1002468653401",
       "required": true
     }
   },
