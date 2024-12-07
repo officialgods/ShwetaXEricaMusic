@@ -15,11 +15,11 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", "")
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 600))
 
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID",-1002468653401))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID",-1002298711889))
 
-OWNER_ID = int(getenv("OWNER_ID", 7526369190))
+OWNER_ID = int(getenv("OWNER_ID", 5886080930))
 
-OWNER = int(getenv("OWNER", 7526369190))
+OWNER = int(getenv("OWNER", 5886080930))
 
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
@@ -33,8 +33,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BLOOD_MANSION")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/PiratesBotRepo")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/TENJIKU_BOT_SUPPORTER")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/TENJIKU_ARA")
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", True))
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "2a230af10e0a40638dc77c1febb47170")
 SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", "7f92897a59464ddbbf00f06cd6bda7fc")
@@ -57,13 +57,13 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/4e68b6d15e042249fb284.png")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://telegra.ph/file/4e68b6d15e042249fb284.png")
-PLAYLIST_IMG_URL = "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg"
-STATS_IMG_URL = getenv("STATS_IMG_URL", "https://telegra.ph/file/4e68b6d15e042249fb284.png")
-TELEGRAM_AUDIO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
-TELEGRAM_VIDEO_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
-STREAM_IMG_URL = "https://te.legra.ph/file/bd995b032b6bd263e2cc9.jpg"
+START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/edu8v2.jpg")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/edu8v2.jpg")
+PLAYLIST_IMG_URL = "https://files.catbox.moe/edu8v2.jpg"
+STATS_IMG_URL = getenv("STATS_IMG_URL", "https://files.catbox.moe/edu8v2.jpg")
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/edu8v2.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/edu8v2.jpg"
+STREAM_IMG_URL = "https://files.catbox.moe/edu8v2.jpg"
 SOUNCLOUD_IMG_URL = "https://te.legra.ph/file/bb0ff85f2dd44070ea519.jpg"
 YOUTUBE_IMG_URL = "https://te.legra.ph/file/6298d377ad3eb46711644.jpg"
 SPOTIFY_ARTIST_IMG_URL = "https://te.legra.ph/file/37d163a2f75e0d3b403d6.jpg"
