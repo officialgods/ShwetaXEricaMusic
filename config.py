@@ -59,7 +59,7 @@ confirmer = {}
 
 START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/z7meid.jpg")
 PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/z7meid.jpg")
-PLAYLIST_IMG_URL = "https://files.catbox.moe/edu8v2.jpg"
+PLAYLIST_IMG_URL = "https://files.catbox.moe/hygnc6.jpg"
 STATS_IMG_URL = getenv("STATS_IMG_URL", "https://files.catbox.moe/hygnc6.jpg")
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/hygnc6.jpg"
 TELEGRAM_VIDEO_URL = "https://files.catbox.moe/hygnc6.jpg"
