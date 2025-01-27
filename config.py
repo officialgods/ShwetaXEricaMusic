@@ -33,8 +33,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/The_Revengers_Network")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/anime_x_aegis")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/THE_SOULMATES_HUB")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/+dtFI4SrfNO5iMTNl")
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", True))
 SPOTIFY_CLIENT_ID = getenv("SPOTIFY_CLIENT_ID", "2a230af10e0a40638dc77c1febb47170")
 SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", "7f92897a59464ddbbf00f06cd6bda7fc")
@@ -57,10 +57,10 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/z7meid.jpg")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/z7meid.jpg")
-PLAYLIST_IMG_URL = "https://files.catbox.moe/hygnc6.jpg"
-STATS_IMG_URL = getenv("STATS_IMG_URL", "https://files.catbox.moe/hygnc6.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://i.imghippo.com/files/mFmE6428fx.jpg")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://i.imghippo.com/files/mFmE6428fx.jpg")
+PLAYLIST_IMG_URL = "https://i.imghippo.com/files/MM9837Mjo.jpg"
+STATS_IMG_URL = getenv("STATS_IMG_URL", "https://i.imghippo.com/files/mFmE6428fx.jpg")
 TELEGRAM_AUDIO_URL = "https://files.catbox.moe/hygnc6.jpg"
 TELEGRAM_VIDEO_URL = "https://files.catbox.moe/hygnc6.jpg"
 STREAM_IMG_URL = "https://files.catbox.moe/hygnc6.jpg"
